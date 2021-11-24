@@ -1,0 +1,8 @@
+*.xlsx
+*.pdf
+*.zip
+*.drawio
+*.ppt
+failed_tests
+bowl
+__pycache__

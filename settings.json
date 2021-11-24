@@ -1,0 +1,14 @@
+{
+  "123": {
+    "actuator": 16,
+    "sensor": 22
+  },
+  "234": {
+    "actuator": 26,
+    "sensor": 23
+  },
+  "345": {
+    "actuator": 6,
+    "sensor": 24
+  }
+}
